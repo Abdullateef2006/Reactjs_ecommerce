@@ -461,6 +461,7 @@ form .password i {
   text-align: center;
   background: red;
   transition: 0.2s ease;
+  
 }
 .submit-btn input:hover {
   background: red;
