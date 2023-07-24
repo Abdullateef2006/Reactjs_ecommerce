@@ -39,6 +39,7 @@ body {
     background-color: white;
     z-index: 1000;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    bottom:0;
 /*     margin-top: 100%;
     /* bottom: -100%; */ */
     /* padding-top: 20px;
